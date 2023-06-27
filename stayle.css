@@ -1,0 +1,30 @@
+img {
+    width: 500px;
+    border: 5px solid #ffff12;
+}
+
+body {
+    background-color: #FFB6C1;
+}
+
+hr {
+    border: 10px solid #FF69B4;
+}
+
+.parent {
+    width: 500px;
+    margin: 0 auto;
+  }
+
+.div1 {
+    float: left;
+}
+
+.div2 {
+    float:right;
+}
+
+.TEXT {
+    writing-mode: vertical-rl;
+    background-color: #f3072b;
+  }
